@@ -69,7 +69,7 @@ const Bio = () => {
       <ul>
         <li>
           <a
-            href="https://twitter.com/benawad97"
+            href="https://twitter.com/benawad"
             target="_blank"
             rel="noopener noreferrer"
           >
