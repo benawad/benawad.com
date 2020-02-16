@@ -28,6 +28,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
+              showCaptions: true,
             },
           },
           {
@@ -55,6 +56,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-twitter`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,

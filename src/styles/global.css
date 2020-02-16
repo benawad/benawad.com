@@ -1,3 +1,13 @@
 .header-anchor {
   box-shadow: none;
 }
+.gatsby-resp-image-figcaption {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* .gatsby-resp-image-figure {
+  margin-top: 56px;
+} */
