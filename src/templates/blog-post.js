@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -27,6 +27,16 @@ class BlogPostTemplate extends React.Component {
             >
               {post.frontmatter.title}
             </h1>
+            <p
+              style={{
+                ...scale(-1 / 7),
+                color: "#828282",
+                display: `block`,
+                marginBottom: rhythm(1),
+              }}
+            >
+              {post.frontmatter.date}
+            </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </article>
@@ -52,6 +62,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
+        date(formatString: "MMM DD, YYYY")
       }
     }
   }
