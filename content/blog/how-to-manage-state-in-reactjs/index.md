@@ -11,7 +11,7 @@ You can store/handle this data using something like [redux](https://redux.js.org
 
 ## local data only ~1 component needs
 
-If only 1 component needs the data, handle the state directly on the component with `useState` or `useReducer` which is built into React (I occasionally also like to use https://github.com/immerjs/use-immer).
+If only 1 component needs the data, handle the state directly on the component with `useState` or `useReducer` which is built into React (I occasionally also like to use https://github.com/immerjs/use-immer). Doing so will colocate your state and make it very easy to reason about which component is responsible for which state.
 
 I recommend you start with that approach for _almost_ every component you create then modify it slightly when other components need the state.
 
@@ -47,7 +47,7 @@ return (
 
 Most of the time, no. A lot of state is pretty flat and you won't be passing props very deep. If you're passing state down more than 2 levels that's usually an indicator you should do something else. Either you should flatten your component structure or your state doesn't fit into this category and you should follow the next section.
 
-## The Other 6% of State Managment
+## The Other 6% of State Management
 
 Situations where your state doesn't fit into the above 2 categories should be pretty rare. An example I've run across is alerts.
 
