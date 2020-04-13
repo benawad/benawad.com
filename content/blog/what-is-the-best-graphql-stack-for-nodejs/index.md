@@ -166,6 +166,8 @@ Doesn't matter what you choose here, all of them can be used with GraphQL.
 
 Personally, I like to use PostgreSQL with TypeORM, but you could go with MongoDB, MySQL, DynamoDB, Redis, etc...
 
+PS: Prisma 2 is pretty good, but still in beta: https://www.isprisma2ready.com/
+
 ## Less Good Options
 
 Nothing wrong with using one of the following, but for one reason or another I find them less optimal.
@@ -175,12 +177,6 @@ Nothing wrong with using one of the following, but for one reason or another I f
 Great for instantly creating an entire backend for simple examples, but difficult to figure out how to do more complex operations and dealing with AWS services can be a pain.
 
 Looks interesting for offline apps though.
-
-### Prisma
-
-I would not recommend Prisma right now. They are in a weird limbo state where Prisma 2 is not ready for production yet (https://www.isprisma2ready.com/), but it will be soon. So I don't want to use Prisma 1 and then have to migrate to Prisma 2 the next month.
-
-With that said, I still think Prisma 2 looks promising and am excited for the prod release.
 
 ### Graph Databases that have GraphQL extensions
 

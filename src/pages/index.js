@@ -17,7 +17,7 @@ class BlogIndex extends React.Component {
         <Bio />
         <p>Posts:</p>
         <ul>
-          {posts.map(({ node }) => {
+          {posts.reverse().map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <li key={node.fields.slug}>
