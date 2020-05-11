@@ -1,5 +1,5 @@
 ---
-title: Scraping Recipes from Websites
+title: Scraping Recipe Websites
 description: How I built an importer to extract recipes from HTML.
 date: 2020-05-11
 ---
