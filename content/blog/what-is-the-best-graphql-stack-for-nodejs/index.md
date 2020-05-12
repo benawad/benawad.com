@@ -60,7 +60,7 @@ Now let's get into some of the options for each piece of the stack.
 - [fastify-gql](https://github.com/mcollina/fastify-gql) is the fastest
 - [NestJS](https://nestjs.com/) is there if you like Angular
 
-If your new and not sure which one to go with, I would start with `Apollo Server`.
+If you're new and not sure which one to go with, I would start with `Apollo Server`.
 
 Note: you can use any server with GraphQL, you mainly just need some kind of adapter that understands how to handle GraphQL requests.
 
