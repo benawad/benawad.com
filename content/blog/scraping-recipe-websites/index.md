@@ -135,7 +135,7 @@ Can be represented as the following tree:
         a
 ```
 
-Using this concept, the HTML is traversed in a depth first search fashion, scoring nodes on how likely they are to be a instructions/ingredient based on the text inside of them.
+Using this concept, the HTML is traversed in a depth first search fashion, scoring nodes on how likely they are to be an instruction/ingredient based on the text inside of them.
 
 Criteria for scoring how likely some text is an instruction:
 
