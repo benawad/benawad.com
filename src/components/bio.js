@@ -6,7 +6,7 @@
  */
 
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
@@ -46,21 +46,21 @@ const Bio = () => {
         }}
       />
       <p>
-        I live in Austin, Texas and work on{" "}
-        <a
-          href="https://www.mysaffronapp.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Saffron
-        </a>{" "}
-        — a platform for cooks. I make programming videos on{" "}
+        I'm a Software Consultant who enjoys making programming videos on{" "}
         <a
           href="https://youtube.com/c/benawad97"
           target="_blank"
           rel="noopener noreferrer"
         >
           YouTube
+        </a>{" "}
+        and building a cooking app called{" "}
+        <a
+          href="https://www.mysaffronapp.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Saffron
         </a>
         . My favorite technologies right now are: React.js, Typescript, GraphQL,
         Node.js, and PostgreSQL.
@@ -95,8 +95,8 @@ const Bio = () => {
           </a>
         </li>
       </ul>
-      <p>
-        Email:{" "}
+      <p id="#hire">
+        Interested in working with me? <br></br> Get in touch:{" "}
         <a
           href="mailto:benawadapps@gmail.com"
           target="_blank"
