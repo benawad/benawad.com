@@ -96,7 +96,7 @@ const Bio = () => {
         </li>
       </ul>
       <p id="#hire">
-        Interested in working with me? <br></br> Get in touch:{" "}
+        Interested in hiring me? <br></br> Get in touch:{" "}
         <a
           href="mailto:benawadapps@gmail.com"
           target="_blank"
