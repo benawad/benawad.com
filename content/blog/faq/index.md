@@ -3,6 +3,12 @@ title: FAQ
 description: "Frequently Asked Questions"
 ---
 
+## Angular?
+
+https://twitter.com/benawad/status/1261659992203112448
+
+https://twitter.com/benawad/status/1266394169528012801
+
 ## What keyboard do you use?
 
 [Das keyboard with brown switches](https://www.daskeyboard.com/daskeyboard-4-professional/)
