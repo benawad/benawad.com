@@ -29,3 +29,11 @@ https://twitter.com/benawad/status/1266394169528012801
 - iTerm2: [gruvbox](https://github.com/morhetz/gruvbox-contrib)
 
 If you want to see all my VSCode settings/extensions: https://gist.github.com/benawad/1e9dd01994f78489306fbfd6f7b01cd3
+
+## How do I get good at programming?
+
+You need to be coding more projects. I got good by coding: https://www.mysaffronapp.com/
+
+## What project should I code?
+
+https://twitter.com/benawad/status/1349373872542519297
