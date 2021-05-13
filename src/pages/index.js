@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
         <ul>
           {posts.reverse().map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
-            if (title === "Speaking") {
+            if (title.includes("speak")) {
               return null
             }
             return (

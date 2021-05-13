@@ -7,8 +7,8 @@ description: "Have Ben Awad speak at your event or conference"
 
 * Optional addons:
 
-  - Ben will tweet about the Q&A/event on [Twitter](https://twitter.com/benawad)
-  - Ben will livestream the Q&A on [Twitch](https://www.twitch.tv/benawad)
+  - Ben can tweet about the Q&A/event on [Twitter](https://twitter.com/benawad)
+  - Ben can livestream the Q&A on [Twitch](https://www.twitch.tv/benawad)
 
 * Speaking fee:
   - \$1,000 for online

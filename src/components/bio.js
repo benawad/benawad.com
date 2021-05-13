@@ -96,7 +96,7 @@ const Bio = () => {
         </li>
       </ul>
       <p>
-        <a href="/speaking">Interested in having me speak at an event?</a>
+        <Link to="/speaking">Interested in having me speak at an event?</Link>
       </p>
     </div>
   )
