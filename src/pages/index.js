@@ -19,6 +19,9 @@ class BlogIndex extends React.Component {
         <ul>
           {posts.reverse().map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
+            if (title === "Speaking") {
+              return null
+            }
             return (
               <li key={node.fields.slug}>
                 <Link to={node.fields.slug}>{title}</Link>

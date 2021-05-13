@@ -11,7 +11,11 @@ https://twitter.com/benawad/status/1266394169528012801
 
 ## What keyboard do you use?
 
-[Das keyboard with brown switches](https://www.daskeyboard.com/daskeyboard-4-professional/)
+Keychron K6 with brown switches, but I don't like it and I'm going to switch soon.
+
+## What mouse do you use?
+
+Logitech MX Master 3 (this one is actually good).
 
 ## How do you code so fast?
 
