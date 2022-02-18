@@ -11,8 +11,8 @@ description: "Have Ben Awad speak at your event or conference"
   - Ben can livestream the Q&A on [Twitch](https://www.twitch.tv/benawad)
 
 * Speaking fee:
-  - \$1,000 for online
-  - \$2,000 for in person + travel expenses
+  - \$2,000 for online
+  - \$6,000 for in person + travel expenses
 * Get in touch:
   <a
             href="mailto:benawadapps+speaking@gmail.com"
