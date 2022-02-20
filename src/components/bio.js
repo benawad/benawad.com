@@ -62,6 +62,14 @@ const Bio = () => {
         >
           Saffron
         </a>
+        or my newest app called{" "}
+        <a
+          href="https://dogehouse.tv/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Dogehouse
+        </a>
         . My favorite technologies right now are: React.js, Typescript, GraphQL,
         Node.js, and PostgreSQL.
       </p>
