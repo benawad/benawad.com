@@ -1,10 +1,11 @@
+
 /**
  * Bio component that queries for data
  * with Gatsby's useStaticQuery component
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
-
+//Added dummy line
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
