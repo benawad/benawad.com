@@ -1,6 +1,7 @@
 ---
 title: How to access localhost from inside a Docker Container in Linux
 description: "Steps to access allow a docker container to access stuff on the host"
+date: 2020-04-15
 ---
 
 1. Enable `route_localnet` for `docker0` interface:

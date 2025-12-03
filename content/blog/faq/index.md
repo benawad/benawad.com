@@ -1,6 +1,7 @@
 ---
 title: FAQ
 description: "Frequently Asked Questions"
+date: 2020-01-01
 ---
 
 ## Angular?

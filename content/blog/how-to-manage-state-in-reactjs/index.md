@@ -1,6 +1,7 @@
 ---
 title: How to Manage State in React.js?
 description: "What should you use to manage global, GraphQL, and local state in React.js?"
+date: 2020-02-10
 ---
 
 96% of state you need to manage is either data fetched from an API or local data only ~1 component needs.
