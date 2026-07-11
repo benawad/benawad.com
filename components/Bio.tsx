@@ -23,7 +23,7 @@ export default function Bio() {
         >
           Voidpet
         </a>{" "}
-        and ex-youtuber.
+        and youtuber.
       </p>
       <div className="flex items-center gap-5">
         <a
